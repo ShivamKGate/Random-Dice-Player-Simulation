@@ -1,21 +1,3 @@
-% HOMEWORK 2: TASK 1
-% File: HW5p2_Task1_sinayksp.m
-% Date: 21 February 2023
-% By: SHIVAM KHARANGATE (sinayksp)
-%
-% Section: 019
-% Team: 279
-%
-% ELECTRONIC SIGNATURE
-% Shivam Kharangate
-%
-% The electronic signature above indicates the script
-% submitted for evaluation is my individual work, and I
-% have a general understanding of all aspects of its
-% development and execution.
-%
-% A BRIEF DESCRIPTION OF WHAT THE SCRIPT OR FUNCTION DOES
-%
 
 P1 = input("Enter Player 1 name: ", "s");
 P2 = input("Enter Player 2 name: ", "s");
