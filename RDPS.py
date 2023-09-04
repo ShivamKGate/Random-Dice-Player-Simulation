@@ -1,5 +1,3 @@
-
-
 import random
 Player1_sum = 0
 Player2_sum = 0
