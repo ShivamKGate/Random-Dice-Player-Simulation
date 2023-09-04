@@ -1,4 +1,3 @@
-
 P1 = input("Enter Player 1 name: ", "s");
 P2 = input("Enter Player 2 name: ", "s");
 n = input("The number of attempts n = ");
